@@ -1,7 +1,8 @@
 # Practica1_H
 practica_WS 
-se lealiso un crud completo con con la practiaca anterior que ya se teneua con 2 metodos 
-pero ahora se aumentaron dos mas que fueron el de actualizar y el de eliminar
+se realizo un crud completo con con la practiaca anterior que ya se teniamos con 2 metodos 
+pero ahora se aumentaron dos mas que fueron el de actualizar y el de eliminar que asi conforma 
+el CRUD completo
 
 
 - **GET /libros**  

@@ -17,7 +17,7 @@ let libros = [
   { id: 10, titulo: 'El nombre del viento', autor: 'Patrick Rothfuss' }
 ];
 
-// Ruta base
+
 app.get('/', (req, res) => {
   res.send('¡Hola, Mundo!');
 });
